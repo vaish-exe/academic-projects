@@ -4,7 +4,7 @@ A collection of academic projects I've worked on as part of my Business Analytic
 
 ### 🔍 Projects
 
-- [🧑‍💻 FaceCheck – Face Recognition System](https://github.com/vaish-exe/facecheck-studyroom-reservation)
+- [🧑‍💻 FaceCheck – Face Recognition System](https://github.com/vaish-exe/facecheck-studyroom-reservation
 )  
   Touchless study room check-in system using Flask, OpenCV, and `face_recognition`.
 
